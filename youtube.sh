@@ -31,6 +31,7 @@ function youtube(){
     echo "Titulo do video: $_title"
     echo "Visualizações: $_views"
     echo "Data de publicação: $_publi"
+    echo "Link do vídeo: $_url/$_id"
 
 }
 
